@@ -20,30 +20,36 @@ I am a **Software Engineering Student** at **Unaerp** (Ribeirão Preto, Brazil),
 
 ### 🛠️ Tech Stack
 
-<details open>
-<summary><b>Backend & Core</b></summary>
-<br />
-<p align="left">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
-</p>
-</details>
+<div align="center">
 
-<details open>
-<summary><b>Frontend & Design</b></summary>
-<br />
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="electron" />
-</p>
-</details>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <b>Backend & Core</b>
+        <br />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <br />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </td>
+      <td align="center" width="50%">
+        <b>Frontend & UI</b>
+        <br />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <br />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+        <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 ---
 
@@ -51,35 +57,26 @@ I am a **Software Engineering Student** at **Unaerp** (Ribeirão Preto, Brazil),
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[EssentialSavio](https://github.com/Saviodec/EssentialSavio)** | A custom Electron-based WhatsApp Desktop replacement for Windows 10. | Electron, JS |
-| **[SitePortfolio](https://github.com/Saviodec/SitePortfolio)** | My personal portfolio showcasing my engineering journey. | Next.js, TS |
-| **[Image_Resizer](https://github.com/Saviodec/Image_Resizer)** | A high-performance utility for bulk image manipulation. | C#, .NET |
-| **[APIRestTodoList](https://github.com/SavioDec/APIRestTodoList)** | A simple CRUD API Rest aplication. | Java, SpringBoot
-
+| **[EssentialSavio](https://github.com/SavioDec/EssentialSavio)** | Custom Electron WhatsApp Desktop replacement. | `Electron` `JS` |
+| **[SitePortfolio](https://github.com/SavioDec/SitePortfolio)** | Modern portfolio showcasing my engineering journey. | `Next.js` `TS` |
+| **[Image_Resizer](https://github.com/SavioDec/Image_Resizer)** | High-performance utility for bulk image manipulation. | `C#` `.NET` |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SavioDec&show_icons=true&theme=tokyonight&count_private=true" alt="Savio's GitHub stats" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SavioDec&theme=tokyonight" alt="Profile Details" width="100%" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioDec&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SavioDec/SavioDec/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SavioDec/SavioDec/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SavioDec/SavioDec/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SavioDec&theme=tokyonight" alt="Most Commits Language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SavioDec&theme=tokyonight" alt="Stats" width="49%" />
+</div>
 
 ---
 
 ### 📫 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://saviodecaro.dev" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="website" />
   </a>
