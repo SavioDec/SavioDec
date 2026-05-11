@@ -60,6 +60,7 @@ I am a **Software Engineering Student** at **Unaerp** (Ribeirão Preto, Brazil),
 | **[EssentialSavio](https://github.com/SavioDec/EssentialSavio)** | Custom Electron WhatsApp Desktop replacement. | `Electron` `JS` |
 | **[SitePortfolio](https://github.com/SavioDec/SitePortfolio)** | Modern portfolio showcasing my engineering journey. | `Next.js` `TS` |
 | **[Image_Resizer](https://github.com/SavioDec/Image_Resizer)** | High-performance utility for bulk image manipulation. | `C#` `.NET` |
+ **[APIRestTodoList](https://github.com/SavioDec/APIRestTodoList)** | A simple CRUD API Rest aplication. | `Java` `SpringBoot`
 
 ---
 
