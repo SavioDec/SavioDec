@@ -62,9 +62,9 @@ I am a **Software Engineering Student** at **Unaerp** (Ribeirão Preto, Brazil),
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saviodec&show_icons=true&theme=tokyonight&count_private=true" alt="Savio's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SavioDec&show_icons=true&theme=tokyonight&count_private=true" alt="Savio's GitHub stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saviodec&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioDec&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" />
 </p>
 
 <p align="center">
