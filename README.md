@@ -81,7 +81,5 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SavioDec.SavioDec&color=7AA2F7" />
   <br/>
   <br/>
-  <img src="https://raw.githubusercontent.com/SavioDec/SavioDec/output/pacman-contribution-graph-dark.svg" width="100%" />
-  <br/>
   <sub>© 2026 Sávio Decaro • Crafted for performance</sub>
 </div>
