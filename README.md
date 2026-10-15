@@ -177,6 +177,6 @@
 <div align="center">
   <br/>
   <br/>
-  <sub>© 2026 Sávio Mariguela Decaro • Crafted for performance. Dragons welcome.</sub>
+  <sub>© 2026 Sávio Mariguela Decaro • Crafted for performance</sub>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </div>
