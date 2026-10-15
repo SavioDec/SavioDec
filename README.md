@@ -5,7 +5,6 @@
     <img src="https://img.shields.io/badge/Kotlin-1A1B26?style=flat-square&logo=kotlin&logoColor=7AA2F7" />
     <img src="https://img.shields.io/badge/Swift-1A1B26?style=flat-square&logo=swift&logoColor=7AA2F7" />
     <img src="https://img.shields.io/badge/Android-1A1B26?style=flat-square&logo=android&logoColor=7AA2F7" />
-    <img src="https://img.shields.io/badge/Firebase-1A1B26?style=flat-square&logo=firebase&logoColor=7AA2F7" />
     <img src="https://img.shields.io/badge/PostgreSQL-1A1B26?style=flat-square&logo=postgresql&logoColor=7AA2F7" />
   </p>
 
@@ -59,7 +58,7 @@
 
 **Mobile (my next specialization)**
 
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift,firebase&theme=dark" alt="Mobile Skills" />
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift&theme=dark" alt="Mobile Skills" />
 
 **Frontend & Desktop**
 
