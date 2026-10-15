@@ -78,18 +78,18 @@
 
 | Project | Highlights | Stack |
 | :--- | :--- | :--- |
-| **[EssentialSavio](https://github.com/SavioDec/EssentialSavio)** | WhatsApp Desktop alternative for Win10 | `Electron` `JS` |
+| **[Remember_it](https://github.com/SavioDec/Remember_it)** | Notes app inspired by Apple Notes, with reminders, addresses and swipe-to-delete | `Kotlin` `Android` |
+| **[Keep-It-Up](https://github.com/SavioDec/Keep-It-Up)** | Reading tracker with dynamic lists, detail screens and Material Design 3 | `Kotlin` `Android` |
+| **[mouse_follower_banguela_MacOs](https://github.com/SavioDec/mouse_follower_banguela_MacOs)** | Desktop pet that follows the mouse cursor on macOS | `Swift` `macOS` |
 | **[SitePortfolio](https://github.com/SavioDec/SitePortfolio)** | Professional engineer portfolio | `Next.js` `TS` |
-| **[Image_Resizer](https://github.com/SavioDec/Image_Resizer)** | High-performance bulk manipulation tool | `C#` `.NET` |
-| **[APIRestTodoList](https://github.com/SavioDec/APIRestTodoList)** | A simple CRUD REST API application | `Java` `Spring Boot` |
 
 </div>
 
 <div align="center">
-  <a href="https://github.com/SavioDec/EssentialSavio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SavioDec&repo=EssentialSavio&theme=tokyonight&hide_border=true" width="49%" /></a>
+  <a href="https://github.com/SavioDec/Remember_it"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SavioDec&repo=Remember_it&theme=tokyonight&hide_border=true" width="49%" /></a>
+  <a href="https://github.com/SavioDec/Keep-It-Up"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SavioDec&repo=Keep-It-Up&theme=tokyonight&hide_border=true" width="49%" /></a>
+  <a href="https://github.com/SavioDec/mouse_follower_banguela_MacOs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SavioDec&repo=mouse_follower_banguela_MacOs&theme=tokyonight&hide_border=true" width="49%" /></a>
   <a href="https://github.com/SavioDec/SitePortfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SavioDec&repo=SitePortfolio&theme=tokyonight&hide_border=true" width="49%" /></a>
-  <a href="https://github.com/SavioDec/Image_Resizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SavioDec&repo=Image_Resizer&theme=tokyonight&hide_border=true" width="49%" /></a>
-  <a href="https://github.com/SavioDec/APIRestTodoList"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SavioDec&repo=APIRestTodoList&theme=tokyonight&hide_border=true" width="49%" /></a>
 </div>
 
 ---
