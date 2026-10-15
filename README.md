@@ -53,8 +53,6 @@
 
 <div align="center">
 
-<!-- Escrito no interior de Sao Paulo, em Ribeirao Preto. O "r" carregado ja vem de fabrica. -->
-
 **Backend & Data**
 
 <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,python,java,spring,php,postgres,nodejs&theme=dark" alt="Backend Skills" />
@@ -173,7 +171,9 @@ savio is not in the sudoers file. This incident will be reported.
   <img src="https://streak-stats.demolab.com?user=SavioDec&theme=tokyonight&hide_border=true" width="80%" />
 </div>
 
----
+<div align="center">
+  <img src="./assets/night-sky.svg" alt="Night sky" width="100%" />
+</div>
 
 ### Let's Connect
 
@@ -198,6 +198,8 @@ savio is not in the sudoers file. This incident will be reported.
 
 <div align="center">
   <br/>
+  <br/>
+  <img src="./assets/night-eyes.svg" alt="Two green eyes watching from the dark" width="66" />
   <br/>
   <sub>© 2026 Sávio Mariguela Decaro • Crafted for performance</sub>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
