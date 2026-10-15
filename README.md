@@ -2,7 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sávio%20Mariguela%20Decaro&fontSize=50&fontColor=C0CAF5&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Engineer%20%7C%20Aspiring%20Mobile%20Developer&descAlignY=58&descSize=20" width="100%" />
 
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Transforming+logic+into+elegant+solutions;Mastering+the+.NET+Ecosystem;Heading+into+mobile+with+Kotlin+%26+Swift;Crafting+modern+web+experiences;Real-time+data+%7C+IoT+%7C+MQTT+%7C+PostgreSQL;Always+learning%2C+always+coding" alt="Typing SVG" />
+    <img src="https://img.shields.io/badge/.NET-1A1B26?style=flat-square&logo=dotnet&logoColor=7AA2F7" />
+    <img src="https://img.shields.io/badge/Next.js-1A1B26?style=flat-square&logo=nextdotjs&logoColor=7AA2F7" />
+    <img src="https://img.shields.io/badge/PostgreSQL-1A1B26?style=flat-square&logo=postgresql&logoColor=7AA2F7" />
+    <img src="https://img.shields.io/badge/MQTT%20%26%20IoT-1A1B26?style=flat-square&logo=mqtt&logoColor=7AA2F7" />
+    <img src="https://img.shields.io/badge/Kotlin%20%7C%20Swift-1A1B26?style=flat-square&logo=kotlin&logoColor=7AA2F7" />
   </p>
 
   <p align="center">
