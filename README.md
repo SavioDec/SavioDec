@@ -74,7 +74,7 @@
 <details>
 <summary><sub>$ whoami</sub></summary>
 
-<img src="./assets/terminal.svg" alt="Animated terminal: whoami, echo $FOCUS, hostname and more" width="560" />
+<img src="./assets/terminal-v2.svg" alt="Animated terminal: whoami, echo $FOCUS, git config and more" width="560" />
 
 </details>
 </div>
