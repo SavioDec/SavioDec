@@ -2,10 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sávio%20Mariguela%20Decaro&fontSize=50&fontColor=C0CAF5&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Engineer%20%7C%20Aspiring%20Mobile%20Developer&descAlignY=58&descSize=20" width="100%" />
 
   <p align="center">
-    <img src="https://img.shields.io/badge/.NET-1A1B26?style=flat-square&logo=dotnet&logoColor=7AA2F7" />
-    <img src="https://img.shields.io/badge/Next.js-1A1B26?style=flat-square&logo=nextdotjs&logoColor=7AA2F7" />
+    <img src="https://img.shields.io/badge/Kotlin-1A1B26?style=flat-square&logo=kotlin&logoColor=7AA2F7" />
+    <img src="https://img.shields.io/badge/Swift-1A1B26?style=flat-square&logo=swift&logoColor=7AA2F7" />
+    <img src="https://img.shields.io/badge/Android-1A1B26?style=flat-square&logo=android&logoColor=7AA2F7" />
+    <img src="https://img.shields.io/badge/Firebase-1A1B26?style=flat-square&logo=firebase&logoColor=7AA2F7" />
     <img src="https://img.shields.io/badge/PostgreSQL-1A1B26?style=flat-square&logo=postgresql&logoColor=7AA2F7" />
-    <img src="https://img.shields.io/badge/Kotlin%20%7C%20Swift-1A1B26?style=flat-square&logo=kotlin&logoColor=7AA2F7" />
   </p>
 
   <p align="center">
@@ -30,13 +31,12 @@
     <tr>
       <td width="60%">
         <p align="left">
-          I am a <b>Software Engineering Student</b> at <b>Unaerp</b>, focused on building high-performance, scalable applications. My journey is driven by a passion for the <b>.NET ecosystem</b> and <b>Frontend excellence</b>. I specialize in bridging complex backend systems with intuitive, modern interfaces.
+          I am a <b>Software Engineering Student</b> at <b>Unaerp</b>, focused on building high-performance, scalable applications. My journey is driven by a passion for <b>mobile development</b> and <b>clean, modern interfaces</b>. I specialize in bridging complex backend systems with intuitive, modern interfaces.
         </p>
         <p align="left">
           Ribeirão Preto, SP - Brazil<br/>
           Software Engineering @ Unaerp<br/>
-          Currently deepening: <b>.NET</b>, <b>Next.js</b><br/>
-          Next big focus: <b>mobile development</b> with <b>Kotlin</b> (Android) and <b>Swift</b> (iOS)<br/>
+          Currently focused on: <b>mobile development</b> with <b>Kotlin</b> (Android) and <b>Swift</b> (iOS)<br/>
           <i>"Building the future, one commit at a time."</i>
         </p>
       </td>
