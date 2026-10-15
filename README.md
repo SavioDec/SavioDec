@@ -102,12 +102,10 @@
       <td align="center" width="50%">
         <img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" /><br/>
         <b>Android · Kotlin</b><br/>
-        <sub>Jetpack Compose • Coroutines • MVVM</sub>
       </td>
       <td align="center" width="50%">
         <img src="https://skillicons.dev/icons?i=swift&theme=dark" /><br/>
         <b>iOS · Swift</b><br/>
-        <sub>SwiftUI • Combine • MVVM</sub>
       </td>
     </tr>
   </table>
