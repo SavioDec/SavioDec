@@ -181,7 +181,7 @@
 <div align="center">
   <br/>
   <br/>
-  <img src="./assets/night-eyes-v6.svg" alt="Toothless ears and eyes in the dark" width="52" />
+  <img src="./assets/night-eyes-v7.svg" alt="Toothless ears and eyes in the dark" width="52" />
   <br/>
   <sub>© 2026 Sávio Mariguela Decaro • Crafted for performance</sub>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
