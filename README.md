@@ -131,6 +131,10 @@
 ### Performance Analytics
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/SavioDec/SavioDec/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
+</div>
+
+<div align="center">
   <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
   <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
   <br/>
