@@ -62,11 +62,11 @@
 
 **Frontend & Desktop**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,sass,html,css,electron&theme=dark" alt="Frontend Skills" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,electron&theme=dark" alt="Frontend Skills" />
 
 **Tools & Cloud**
 
-<img src="https://skillicons.dev/icons?i=git,github,aws,vscode,visualstudio,idea,windows&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,aws,vscode,visualstudio,idea,windows,linux&theme=dark" alt="Tools" />
 
 </div>
 
