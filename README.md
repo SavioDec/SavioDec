@@ -53,6 +53,8 @@
 
 <div align="center">
 
+<!-- Legacy databases pad their strings. Always trim() before you trust. -->
+
 **Backend & Data**
 
 <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,python,java,spring,php,postgres,nodejs&theme=dark" alt="Backend Skills" />
@@ -67,8 +69,31 @@
 
 **Tools & Cloud**
 
-<img src="https://skillicons.dev/icons?i=git,github,aws,vscode,visualstudio,idea,windows,linux&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,aws,vscode,visualstudio,idea,windows,linux&theme=dark" alt="Works on my machine. Windows and Linux." />
 
+</div>
+<div align="center">
+<details>
+<summary><sub>$ whoami</sub></summary>
+
+```
+$ whoami
+savio
+
+$ echo $FOCUS
+mobile
+
+$ cat skills.txt | grep -i android
+kotlin
+
+$ ping toothless
+64 bytes from night-fury: icmp_seq=1 ttl=64 time=0.13 ms
+
+$ sudo make me a coffee
+savio is not in the sudoers file. This incident will be reported.
+```
+
+</details>
 </div>
 
 ---
@@ -174,3 +199,5 @@
   <sub>© 2026 Sávio Mariguela Decaro • Crafted for performance</sub>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </div>
+
+<!-- up up down down left right left right b a -->
