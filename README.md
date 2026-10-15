@@ -20,7 +20,7 @@
 
 ---
 
-### 🌐 Digital Presence
+### Digital Presence
 
 <div align="center">
   <table border="0">
@@ -30,11 +30,11 @@
           I am a <b>Software Engineering Student</b> at <b>Unaerp</b>, focused on building high-performance, scalable applications. My journey is driven by a passion for the <b>.NET ecosystem</b> and <b>Frontend excellence</b>. I specialize in bridging complex backend systems with intuitive, modern interfaces.
         </p>
         <p align="left">
-          📍 Ribeirão Preto, SP - Brazil<br/>
-          🎓 Software Engineering @ Unaerp<br/>
-          🌱 Currently deepening: <b>.NET</b>, <b>Next.js</b>, real-time systems and IoT data pipelines<br/>
-          📱 Next big focus: <b>mobile development</b> with <b>Kotlin</b> (Android) and <b>Swift</b> (iOS)<br/>
-          💬 <i>"Building the future, one commit at a time."</i>
+          Ribeirão Preto, SP - Brazil<br/>
+          Software Engineering @ Unaerp<br/>
+          Currently deepening: <b>.NET</b>, <b>Next.js</b>, real-time systems and IoT data pipelines<br/>
+          Next big focus: <b>mobile development</b> with <b>Kotlin</b> (Android) and <b>Swift</b> (iOS)<br/>
+          <i>"Building the future, one commit at a time."</i>
         </p>
       </td>
       <td width="40%" align="center">
@@ -46,7 +46,7 @@
 
 ---
 
-### ⚡ Technical Arsenal
+### Technical Arsenal
 
 <div align="center">
 
@@ -54,7 +54,7 @@
 
 <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,python,java,spring,php,postgres,nodejs&theme=dark" alt="Backend Skills" />
 
-**Mobile (my next specialization 📱)**
+**Mobile (my next specialization )**
 
 <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift,xcode,firebase&theme=dark" alt="Mobile Skills" />
 
@@ -70,7 +70,7 @@
 
 ---
 
-### 🛠️ Featured Engineering
+### Featured Engineering
 
 <div align="center">
 
@@ -92,7 +92,7 @@
 
 ---
 
-### 📱 Mobile Roadmap
+### Mobile Roadmap
 
 <div align="center">
   <table>
@@ -114,22 +114,22 @@
 
 ---
 
-### 🧠 What I Care About
+### What I Care About
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="25%">🏗️<br/><b>Clean Architecture</b><br/><sub>Maintainable, testable code</sub></td>
-      <td align="center" width="25%">⚡<br/><b>Performance</b><br/><sub>Optimized queries & lean UIs</sub></td>
-      <td align="center" width="25%">📡<br/><b>Real-time & IoT</b><br/><sub>MQTT, telemetry, resilient daemons</sub></td>
-      <td align="center" width="25%">🎨<br/><b>Design Systems</b><br/><sub>Consistent, modern interfaces</sub></td>
+      <td align="center" width="25%"><b>Clean Architecture</b><br/><sub>Maintainable, testable code</sub></td>
+      <td align="center" width="25%"><b>Performance</b><br/><sub>Optimized queries & lean UIs</sub></td>
+      <td align="center" width="25%"><b>Real-time & IoT</b><br/><sub>MQTT, telemetry, resilient daemons</sub></td>
+      <td align="center" width="25%"><b>Design Systems</b><br/><sub>Consistent, modern interfaces</sub></td>
     </tr>
   </table>
 </div>
 
 ---
 
-### 📊 Performance Analytics
+### Performance Analytics
 
 <div align="center">
   <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
@@ -143,7 +143,7 @@
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
 <div align="center">
   <p>Open to collaborations, internships and interesting projects — let's build something great together.</p>
