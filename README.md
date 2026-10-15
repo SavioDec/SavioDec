@@ -152,14 +152,14 @@
 <div align="center">
   <p>Open to collaborations, internships and interesting projects — let's build something great together.</p>
   <a href="https://linkedin.com/in/savio-mariguela-decaro-1a06b1279"><img src="https://img.shields.io/badge/Talk%20to%20me-LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=1A1B26" /></a>
-  <a href="https://saviodecaro.dev"><img src="./assets/button-portfolio.svg" alt="Visit Portfolio" /></a>
+  <a href="https://saviodecaro.dev"><img src="https://img.shields.io/badge/Visit-Portfolio-7AA2F7?style=for-the-badge&logo=firefox-browser&logoColor=1A1B26" /></a>
 </div>
 
 <div align="center">
 <details>
 <summary><sub>Psst. Click here, but do not scare him.</sub></summary>
 
-<img src="./assets/toothless-story.svg" alt="Toothless flying in, landing, walking and sitting down" width="100%" />
+<img src="./assets/toothless-story.svg" alt="Toothless flying in, landing, walking and sitting down" width="240" />
 
 <sub>Toothless guards this profile. He likes fish, clean commits and long flights.</sub>
 
