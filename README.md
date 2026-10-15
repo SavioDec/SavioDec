@@ -181,7 +181,7 @@
 <div align="center">
   <br/>
   <br/>
-  <img src="./assets/night-eyes-v3.svg" alt="Toothless watching from the dark" width="96" />
+  <img src="./assets/night-eyes-v4.svg" alt="Two green eyes watching from the dark" width="52" />
   <br/>
   <sub>© 2026 Sávio Mariguela Decaro • Crafted for performance</sub>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
