@@ -56,7 +56,7 @@
 
 <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,python,java,spring,php,postgres,nodejs&theme=dark" alt="Backend Skills" />
 
-**Mobile (my next specialization)**
+**Mobile**
 
 <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift&theme=dark" alt="Mobile Skills" />
 
