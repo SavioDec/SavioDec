@@ -159,9 +159,7 @@
 <details>
 <summary><sub>Psst. Click here, but do not scare him.</sub></summary>
 
-<img src="./assets/toothless-sit.svg" alt="Toothless sitting" width="220" />
-
-<img src="./assets/toothless-fly.svg" alt="Toothless flying" width="100%" />
+<img src="./assets/toothless-story.svg" alt="Toothless flying in, landing, walking and sitting down" width="100%" />
 
 <sub>Toothless guards this profile. He likes fish, clean commits and long flights.</sub>
 
