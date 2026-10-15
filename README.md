@@ -1,3 +1,4 @@
+<!-- Toothless was here. If you are reading the source, you found the first egg. -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sávio%20Mariguela%20Decaro&fontSize=50&fontColor=C0CAF5&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Engineer%20%7C%20Aspiring%20Mobile%20Developer&descAlignY=58&descSize=20" width="100%" />
 
@@ -131,7 +132,7 @@
 ### Performance Analytics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SavioDec/SavioDec/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/SavioDec/SavioDec/output/github-snake-dark.svg" alt="Toothless hunting down every contribution" width="100%" />
 </div>
 
 <div align="center">
@@ -155,8 +156,30 @@
 </div>
 
 <div align="center">
+<details>
+<summary><sub>Psst. Click here, but do not scare him.</sub></summary>
+
+```
+      /\          /\
+     /  \________/  \
+    |  ( O )  ( O )  |
+     \      ww      /
+      \   \____/   /
+       \__________/
+
+    Night Fury on duty.
+```
+
+<sub>Toothless guards this profile. He likes fish, clean commits and long flights.</sub>
+
+<sub>Want to see him in action? <a href="https://github.com/SavioDec/mouse_follower_banguela_MacOs">He follows your mouse on macOS</a> and <a href="https://github.com/SavioDec/mouse_follower_banguela_gnome">on GNOME</a>.</sub>
+
+</details>
+</div>
+
+<div align="center">
   <br/>
   <br/>
-  <sub>© 2026 Sávio Mariguela Decaro • Crafted for performance</sub>
+  <sub>© 2026 Sávio Mariguela Decaro • Crafted for performance. Dragons welcome.</sub>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </div>
