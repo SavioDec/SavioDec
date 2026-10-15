@@ -15,7 +15,6 @@
   <p align="center">
     <img src="https://img.shields.io/github/followers/SavioDec?style=for-the-badge&logo=github&logoColor=7AA2F7&labelColor=1A1B26&color=1A1B26" />
     <img src="https://img.shields.io/github/stars/SavioDec?style=for-the-badge&logo=github&logoColor=7AA2F7&labelColor=1A1B26&color=1A1B26" />
-    <img src="https://komarev.com/ghpvc/?username=SavioDec&style=for-the-badge&color=7AA2F7&labelColor=1A1B26&label=PROFILE+VIEWS" />
   </p>
 </div>
 
@@ -154,7 +153,6 @@
 
 <div align="center">
   <br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SavioDec.SavioDec&color=7AA2F7" />
   <br/>
   <sub>© 2026 Sávio Decaro • Crafted for performance</sub>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
