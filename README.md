@@ -74,25 +74,7 @@
 <details>
 <summary><sub>$ whoami</sub></summary>
 
-```
-$ whoami
-savio
-
-$ echo $FOCUS
-mobile
-
-$ cat skills.txt | grep -i android
-kotlin
-
-$ hostname
-ribeirao-preto
-
-$ ls ~/pets
-banguela_gnome  banguela_macos
-
-$ sudo make me a coffee
-savio is not in the sudoers file. This incident will be reported.
-```
+<img src="./assets/terminal.svg" alt="Animated terminal: whoami, echo $FOCUS, hostname and more" width="560" />
 
 </details>
 </div>
@@ -199,7 +181,7 @@ savio is not in the sudoers file. This incident will be reported.
 <div align="center">
   <br/>
   <br/>
-  <img src="./assets/night-eyes.svg" alt="Two green eyes watching from the dark" width="66" />
+  <img src="./assets/night-eyes.svg" alt="Toothless watching from the dark" width="84" />
   <br/>
   <sub>© 2026 Sávio Mariguela Decaro • Crafted for performance</sub>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />

@@ -1,16 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="110" height="44" viewBox="0 0 110 44">
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="70" viewBox="0 0 110 70">
 <style>
 @keyframes show{0%,60%{opacity:0}66%,92%{opacity:1}98%,100%{opacity:0}}
 @keyframes blink{0%,70%,76%,100%{transform:scaleY(1)}73%{transform:scaleY(.08)}}
-@keyframes blink2{0%,82%,88%,100%{transform:scaleY(1)}85%{transform:scaleY(.08)}}
 .e{animation:show 18s ease-in-out infinite}
-.l{transform-origin:38px 22px;animation:blink 18s linear infinite}
-.r{transform-origin:72px 22px;animation:blink 18s linear infinite}
+.l{transform-origin:38px 38px;animation:blink 18s linear infinite}
+.r{transform-origin:72px 38px;animation:blink 18s linear infinite}
 </style>
 <defs><radialGradient id="g"><stop offset="0" stop-color="#b8ff6a"/><stop offset="1" stop-color="#2ecc40"/></radialGradient></defs>
-<rect width="110" height="44" rx="22" fill="#0d1117"/>
+<rect width="110" height="70" rx="14" fill="#0d1117"/>
 <g class="e">
-<g class="l"><ellipse cx="38" cy="22" rx="11" ry="8" fill="url(#g)"/><ellipse cx="38" cy="22" rx="2.2" ry="7" fill="#0d1117"/></g>
-<g class="r"><ellipse cx="72" cy="22" rx="11" ry="8" fill="url(#g)"/><ellipse cx="72" cy="22" rx="2.2" ry="7" fill="#0d1117"/></g>
+<path d="M22 34 L27 6 L46 22 Z M88 34 L83 6 L64 22 Z" fill="#1a2030"/>
+<path d="M16 44 C16 28 36 20 55 20 C74 20 94 28 94 44 C94 60 76 68 55 68 C34 68 16 60 16 44 Z" fill="#1a2030"/>
+<path d="M46 56 Q55 60 64 56" fill="none" stroke="#0d1117" stroke-width="1.5" stroke-linecap="round"/>
+<ellipse cx="50" cy="51" rx="1.2" ry="1.6" fill="#0d1117"/><ellipse cx="60" cy="51" rx="1.2" ry="1.6" fill="#0d1117"/>
+<g class="l"><ellipse cx="38" cy="38" rx="11" ry="8" fill="url(#g)"/><ellipse cx="38" cy="38" rx="2.2" ry="7" fill="#0d1117"/></g>
+<g class="r"><ellipse cx="72" cy="38" rx="11" ry="8" fill="url(#g)"/><ellipse cx="72" cy="38" rx="2.2" ry="7" fill="#0d1117"/></g>
 </g>
 </svg>
