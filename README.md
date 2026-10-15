@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<!-- Legacy databases pad their strings. Always trim() before you trust. -->
+<!-- Escrito no interior de Sao Paulo, em Ribeirao Preto. O "r" carregado ja vem de fabrica. -->
 
 **Backend & Data**
 
@@ -86,8 +86,11 @@ mobile
 $ cat skills.txt | grep -i android
 kotlin
 
-$ ping toothless
-64 bytes from night-fury: icmp_seq=1 ttl=64 time=0.13 ms
+$ hostname
+ribeirao-preto
+
+$ ls ~/pets
+banguela_gnome  banguela_macos
 
 $ sudo make me a coffee
 savio is not in the sudoers file. This incident will be reported.
