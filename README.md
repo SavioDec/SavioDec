@@ -5,7 +5,6 @@
     <img src="https://img.shields.io/badge/.NET-1A1B26?style=flat-square&logo=dotnet&logoColor=7AA2F7" />
     <img src="https://img.shields.io/badge/Next.js-1A1B26?style=flat-square&logo=nextdotjs&logoColor=7AA2F7" />
     <img src="https://img.shields.io/badge/PostgreSQL-1A1B26?style=flat-square&logo=postgresql&logoColor=7AA2F7" />
-    <img src="https://img.shields.io/badge/MQTT%20%26%20IoT-1A1B26?style=flat-square&logo=mqtt&logoColor=7AA2F7" />
     <img src="https://img.shields.io/badge/Kotlin%20%7C%20Swift-1A1B26?style=flat-square&logo=kotlin&logoColor=7AA2F7" />
   </p>
 
@@ -36,7 +35,7 @@
         <p align="left">
           Ribeirão Preto, SP - Brazil<br/>
           Software Engineering @ Unaerp<br/>
-          Currently deepening: <b>.NET</b>, <b>Next.js</b>, real-time systems and IoT data pipelines<br/>
+          Currently deepening: <b>.NET</b>, <b>Next.js</b><br/>
           Next big focus: <b>mobile development</b> with <b>Kotlin</b> (Android) and <b>Swift</b> (iOS)<br/>
           <i>"Building the future, one commit at a time."</i>
         </p>
@@ -123,10 +122,9 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="25%"><b>Clean Architecture</b><br/><sub>Maintainable, testable code</sub></td>
-      <td align="center" width="25%"><b>Performance</b><br/><sub>Optimized queries & lean UIs</sub></td>
-      <td align="center" width="25%"><b>Real-time & IoT</b><br/><sub>MQTT, telemetry, resilient daemons</sub></td>
-      <td align="center" width="25%"><b>Design Systems</b><br/><sub>Consistent, modern interfaces</sub></td>
+      <td align="center" width="33%"><b>Clean Architecture</b><br/><sub>Maintainable, testable code</sub></td>
+      <td align="center" width="33%"><b>Performance</b><br/><sub>Optimized queries & lean UIs</sub></td>
+      <td align="center" width="33%"><b>Design Systems</b><br/><sub>Consistent, modern interfaces</sub></td>
     </tr>
   </table>
 </div>
