@@ -156,19 +156,16 @@
 </div>
 
 <div align="center">
+  <img src="./assets/toothless-walk.svg" alt="Toothless walking" width="100%" />
+</div>
+
+<div align="center">
 <details>
 <summary><sub>Psst. Click here, but do not scare him.</sub></summary>
 
-```
-      /\          /\
-     /  \________/  \
-    |  ( O )  ( O )  |
-     \      ww      /
-      \   \____/   /
-       \__________/
+<img src="./assets/toothless-sit.svg" alt="Toothless sitting" width="220" />
 
-    Night Fury on duty.
-```
+<img src="./assets/toothless-fly.svg" alt="Toothless flying" width="100%" />
 
 <sub>Toothless guards this profile. He likes fish, clean commits and long flights.</sub>
 
