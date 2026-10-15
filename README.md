@@ -57,9 +57,9 @@
 
 <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,python,java,spring,php,postgres,nodejs&theme=dark" alt="Backend Skills" />
 
-**Mobile (my next specialization )**
+**Mobile (my next specialization)**
 
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift,xcode,firebase&theme=dark" alt="Mobile Skills" />
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift,firebase&theme=dark" alt="Mobile Skills" />
 
 **Frontend & Desktop**
 
@@ -106,7 +106,7 @@
         <sub>Jetpack Compose • Coroutines • MVVM</sub>
       </td>
       <td align="center" width="50%">
-        <img src="https://skillicons.dev/icons?i=swift,xcode&theme=dark" /><br/>
+        <img src="https://skillicons.dev/icons?i=swift&theme=dark" /><br/>
         <b>iOS · Swift</b><br/>
         <sub>SwiftUI • Combine • MVVM</sub>
       </td>
